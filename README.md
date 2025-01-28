@@ -7,13 +7,11 @@
 <h1>Hello World!</h1>
 <p>Welcome to KellyDonovan.me.
 
-This is the site for whatever, whatever happens, this is where you'll find it. Whatever the weather, whatever the day, whatever the time.
-
-Whatever.
-kellydonovan.me
+This is the site for cool stuff, whatever happens, this is where you'll find it. 
 
 http://www.kellydonovan.me
-Author
+
+Author:
 
 Kelly Donovan
 (I made this)
